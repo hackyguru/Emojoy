@@ -1,6 +1,5 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/RobinMnk/Emojoy) 
 
-# Emojoy
+# Sahayak Hackathon 2020
 
 The aim of this project is to help people with autism to recognize and use facial expressions.
 
@@ -15,6 +14,3 @@ For this purpose we are developing a web app that uses face recognition and a pl
 ## Contribution:
 
 We are grateful for any form of support!
-
-
-[Play Now](https://emojoy.app/)
